@@ -1,0 +1,33 @@
+#sea {
+    padding-top:50px;
+}
+
+#stage{
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    -webkit-perspective: 600px 600px 600px;
+}
+
+#floor{
+    margin-top:-25px;
+}
+
+#wall{
+    margin-top:-520px;
+}
+
+#ball{
+    margin-left:-200px;
+    margin-top:-120px;
+}
+
+#easel{
+    margin-left:140px;
+    margin-top:-280px;
+}
+
+#frame{
+    margin-top:-540px;
+}
